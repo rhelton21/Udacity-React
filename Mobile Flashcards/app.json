@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "mobileflashcards7",
+    "slug": "snack-f4e7a707-cdf8-4995-829c-233d4c2b63cf",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "useNextNotificationsApi": true
+    },
+    "web": {
+      "useNextNotificationsApi": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
